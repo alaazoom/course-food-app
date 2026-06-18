@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![mm3](mm3.jpg)
+![mm3](mm6.jpg)
 
 ## Description
 foodapp2 A new Flutter project.
